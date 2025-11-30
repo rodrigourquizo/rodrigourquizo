@@ -22,3 +22,9 @@ This project was developed for the Electronic Project course at my university, s
 ## Connect with Me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/rodrigo-urquizo-ab7a3220b/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigourquizo/rodrigourquizo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigourquizo/rodrigourquizo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrigourquizo/rodrigourquizo/output/pacman-contribution-graph.svg">
+</picture>

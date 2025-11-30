@@ -4,7 +4,7 @@ I'm Rodrigo, a passionate software engineer with a love for creating innovative 
 
 ## About Me
 
-I'm a software engineer with a focus on machine learning and web development. I currently work on various projects that challenge my skills and push me to learn new technologies. I am based in Lima, Peru.
+I'm a software engineer with a focus on machine learning and backend development. I currently work on various projects that challenge my skills and push me to learn new technologies. I am based in Lima, Peru.
 
 ## Skills & Technologies
 

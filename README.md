@@ -11,13 +11,21 @@ I'm a software engineer with a focus on machine learning and backend development
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,nodejs,pytorch,tensorflow,aws,azure,gcp,git,github,githubactions,npm,vscode,postman,gherkin&perline=8)](https://skillicons.dev)
 ## Top Projects
 
-### [Fraud Detection in Banking Transactions using LLaMA and AWS](https://github.com/rodrigourquizo/challenge-ai)  
-This repository contains the implementation of a credit risk classification model developed using Amazon SageMaker and Amazon Bedrock.  
-🛠️ Python | AWS 
+### 💳 [Fraud Detection in Banking Transactions using LLaMA and AWS](https://github.com/rodrigourquizo/challenge-ai)  
+Banking fraud detection system using Python, LLMs and AWS SageMaker, integrating an end-to-end automated MLOps pipeline for preprocessing, training, evaluating, and deployment.
+🛠️ **Python | AWS | LLMs | MLOps**
 
-### [Autonomous Drone and AI Surveillance System](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone)  
-This project was developed for the Electronic Project course at my university, showcasing drone and computer vision surveillance capabilities.  
-🛠️ Python | Tensorflow | OpenCV
+---
+
+### 🚁 [Autonomous Drone & AI Surveillance System](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone)  
+AI-driven surveillance system that integrates **computer vision** and autonomous drone control for real-time monitoring and threat detection.  
+🛠️ **Python | TensorFlow | OpenCV**
+
+---
+
+### 🧠📈 [KRONOS – AI-Driven Predictive Analytics System](https://github.com/rodrigourquizo/KRONOS)  
+Predictive analytics platform designed for monitoring and forecasting failures in **industrial operational variables**. The project includes **data pipelines**, **machine learning models**, and cloud-based deployment.  
+🛠️ **Python | Azure ML | PostgreSQL | Node.js**
 
 ## Connect with Me
 

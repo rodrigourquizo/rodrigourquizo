@@ -18,7 +18,7 @@ Banking fraud detection system using Python, LLMs and AWS SageMaker, integrating
 
 ---
 
-### 🚁 [Autonomous Drone & AI Surveillance System](https://github.com/rodrigourquizo/Autonomous-Surveillance-with-drone)  
+### 🦅 [HAWKEYE – AI Surveillance System for Person Detection Using Drones](https://github.com/rodrigourquizo/HAWKEYE)  
 AI-driven surveillance system that integrates **computer vision** and autonomous drone control for real-time monitoring and threat detection.  
 
 🛠️ **Python | TensorFlow | OpenCV**

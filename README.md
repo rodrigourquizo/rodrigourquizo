@@ -12,8 +12,7 @@ I'm a software engineer with a focus on machine learning and backend development
 ## Top Projects
 
 ### 💳 [Credit risk classification using LLMs and AWS](https://github.com/rodrigourquizo/challenge-ai)  
-Credit risk detection system using Python, LLMs and AWS SageMaker, integrating an end-to-end automated ML pipeline for preprocessing, training, and deployment.
-
+Data labeling using LLMs on Amazon Bedrock and classification model training with AWS SageMaker
 🛠️ **Python | AWS | LLMs | MLOps**
 
 ---

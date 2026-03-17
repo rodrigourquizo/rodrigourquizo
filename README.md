@@ -11,8 +11,8 @@ I'm a software engineer with a focus on machine learning and backend development
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,nodejs,react,pytorch,tensorflow,aws,azure,gcp,git,github,githubactions,npm,postman&perline=8)](https://skillicons.dev)
 ## Top Projects
 
-### 💳 [Fraud Detection in Banking Transactions using LLaMA and AWS](https://github.com/rodrigourquizo/challenge-ai)  
-Banking fraud detection system using Python, LLMs and AWS SageMaker, integrating an end-to-end automated MLOps pipeline for preprocessing, training, evaluating, and deployment.
+### 💳 [Credit risk classification using LLMs and AWS](https://github.com/rodrigourquizo/challenge-ai)  
+Credit risk detection system using Python, LLMs and AWS SageMaker, integrating an end-to-end automated MLOps pipeline for preprocessing, training, evaluating, and deployment.
 
 🛠️ **Python | AWS | LLMs | MLOps**
 

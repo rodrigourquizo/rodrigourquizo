@@ -24,13 +24,6 @@ This system performs person detection using the YOLOv8 deep learning model and p
 
 ---
 
-### 📈 KRONOS – AI-Driven Predictive Analytics System
-Predictive analytics platform designed for monitoring and forecasting failures in **industrial operational variables**. The project includes **data pipelines**, **machine learning models**, and cloud-based deployment.  
-
-🛠️ **Python | Azure ML | PostgreSQL | Node.js**
-
-## Connect with Me
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/rodrigo-urquizo-ab7a3220b/)
 
 <picture>
